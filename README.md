@@ -1,3 +1,3 @@
 # Sunshine
 
-[Sunshine](https://github.com/nikhilyadavjr/Sunshine/)
+[Sunshine](https://nikhilyadavjr.github.io/Sunshine/)
